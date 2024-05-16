@@ -7,4 +7,4 @@ I am independently completing the Stanford "CS229:Machine Learning" course. In t
 # Checkpoints
 - 2/6/24: Completed and uploaded Problem Set 1
 - 3/11/24: Completed and uploaded Problem Set 2
-- 3/31/24: Completed and uploaded Problem Set 4 (Final Problem Set)
+- 3/31/24: Completed and uploaded Problem Set 3 (Final Problem Set)
